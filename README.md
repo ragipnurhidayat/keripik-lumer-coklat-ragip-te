@@ -1,4 +1,3 @@
-# keripik-lumer-coklat-ragip-te
 <!DOCTYPE html>
 <html>
 <head>
